@@ -10663,6 +10663,14 @@ var _set_grid_color = Module["_set_grid_color"] = createExportWrapper("set_grid_
 /** @type {function(...*):?} */
 var _set_grid_state = Module["_set_grid_state"] = createExportWrapper("set_grid_state");
 /** @type {function(...*):?} */
+var _reset_speed = Module["_reset_speed"] = createExportWrapper("reset_speed");
+/** @type {function(...*):?} */
+var _reset_turn_rate = Module["_reset_turn_rate"] = createExportWrapper("reset_turn_rate");
+/** @type {function(...*):?} */
+var _reset_scene_translation = Module["_reset_scene_translation"] = createExportWrapper("reset_scene_translation");
+/** @type {function(...*):?} */
+var _reset_scene_rotation = Module["_reset_scene_rotation"] = createExportWrapper("reset_scene_rotation");
+/** @type {function(...*):?} */
 var _main = Module["_main"] = createExportWrapper("main");
 /** @type {function(...*):?} */
 var _malloc = createExportWrapper("malloc");
